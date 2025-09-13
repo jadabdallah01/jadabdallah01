@@ -6,7 +6,6 @@
 
 ## 👨‍💻 About Me
 - 🎯 Interested in **Web Development, Game Development, and Mobile Development**  
-- 🌱 Currently exploring **Unity with AI (GANs/VAEs)** and **CUDA GPU Programming**  
 - 💡 Love working on **real-world projects** that combine creativity and tech  
 - 📍 Based in Lebanon  
 
@@ -34,9 +33,9 @@
 ---
 
 ## 📫 Get in Touch
-- 🌐 [Portfolio Website](#) *(add when ready)*  
+- 🌐 [Portfolio Website](#)
 - 💼 [LinkedIn](#)  
-- ✉️ Email: yourname@email.com  
+- ✉️ Email:abdullahjad3@gmail.com  
 
 ---
 
