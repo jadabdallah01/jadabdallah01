@@ -25,16 +25,14 @@
 
 - 📦 **PrintShop Delivery Website** — A platform similar to UberEats but for printshops  
 - 🎮 **Unity AI-Generated Game** — Integrating GANs & VAEs to create dynamic environments  
-- 🚗 **
--
-- Roblox Driving Simulator** — 3D game with interactive storyline and NPCs  
-- 📊 Movie Database Website - A platform similar to Letterboxd showing different movings with their rankings.
+- 🚗 **Roblox Driving Simulator** — 3D game with interactive storyline and NPCs  
+- 📊 **Movie Database Website** - A platform similar to Letterboxd showing different movings with their rankings.
 
 ---
 
 ## 📫 Get in Touch
 - 🌐 [Portfolio Website](#)
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jad-abdallah-55603325a/)  
 - ✉️ Email:abdullahjad3@gmail.com  
 
 ---
