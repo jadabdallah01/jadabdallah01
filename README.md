@@ -32,7 +32,7 @@
 
 ## 📫 Get in Touch
 - 🌐 [Portfolio Website](https://portfolio-website-ruddy-three-64.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jad-abdallah-55603325a/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jadabdallah01)  
 - ✉️ Email:abdullahjad3@gmail.com  
 
 ---
