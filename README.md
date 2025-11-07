@@ -1,4 +1,4 @@
-# Hi there, I'm Jad 👋  
+[# Hi there, I'm Jad 👋  
 
 🎓 Computer Science Graduate | 💻 Software Developer | 🚀 Passionate about Building & Learning  
 
@@ -38,3 +38,4 @@
 ---
 
 ⭐️ *Feel free to check out my projects and connect with me!*  
+](https://portfolio-website-ruddy-three-64.vercel.app/)
